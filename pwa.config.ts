@@ -11,7 +11,7 @@ export default {
   themeColor: '#fff',
   display: 'standalone',
   orientation: 'any',
-  scope: '/',
+  scope: '/?view=app',
   startUrl: '/?view=app',
   appleStatusBarStyle: 'black-translucent',
   preferRelatedApplications: false,
