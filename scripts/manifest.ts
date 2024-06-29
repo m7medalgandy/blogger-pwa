@@ -3,7 +3,7 @@ import path from 'node:path';
 export const getManifest = ({
   name = 'My App',
   version = '1.0',
-  id = '/',
+  id = '/?view=app',
   shortName = name,
   description = name,
   direction = 'auto',
