@@ -12,7 +12,6 @@ export default {
   display: 'standalone',
   orientation: 'any',
   scope: '/?view=app',
-  id: '/?view=app',
   startUrl: '/?view=app',
   appleStatusBarStyle: 'black-translucent',
   preferRelatedApplications: false,
